@@ -5,6 +5,8 @@
 - run (running `$(EXE)` binary using `25012`, as the default port)
 
 Example of building:
+
 ![](./img/building.png) 
 Example of server's output:
+
 ![](./img/output.png)
